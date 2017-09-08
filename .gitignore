@@ -23,3 +23,6 @@ hs_err_pid*
 
 /onlineshoppingxxy/target/
 /shoppingbackendxxy/target/
+/onlineshoppingxxy/bootstrap-4.0.0-beta-dist/
+/onlineshoppingxxy/bootstrap-3.3.7-dist/
+/onlineshoppingxxy/apache-tomcat-8.0.46/
